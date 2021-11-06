@@ -1,1 +1,1 @@
-# trans-ancestry-PWAS
+# trans-ancestry-proteome-wide Mendelian randomization
