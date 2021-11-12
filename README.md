@@ -23,6 +23,6 @@ we include the following functions in R code for reference:
 * steiger filtering, heterogenity and pleiotropy test in `2SMR.R`
 * LDcheck in `LDcheck and colocalization.R`
 
-Th colocalization method we choose is PWCOCO (https://github.com/jwr-git/pwcoco/). 
+The colocalization method: PWCOCO (https://github.com/jwr-git/pwcoco/). 
 
 Any other related information could be referenced from our paper (https://outlook.office.com/mail/group/groups.bristol.ac.uk/grp-trans-ethnicpwas-gbmi/files/sxs/sp/701F7E1B-F49A-421F-855C-B72A1CC39EB4/). 
