@@ -1,4 +1,4 @@
-# trans-ancestry-proteome-wide Mendelian randomization
+# Trans-ancestry proteome-wide Mendelian randomization
 In this study, we systematically estimated the causal role of 1,311 and 1,310 proteins, measured in populations from African and European ancestry respectively, on eight common diseases using a comprehensive ancestry-specific MR pipeline.
 The results highlight the value of proteome-wide MR in informing the generalisability of drugs and drug targets across ancestries and illustrate the value of multi-cohort and biobank meta-analysis of genetic data for drug development.
 
