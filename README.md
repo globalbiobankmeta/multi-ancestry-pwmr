@@ -25,4 +25,11 @@ we include the following functions in R code for reference:
 
 The colocalization method: PWCOCO (https://github.com/jwr-git/pwcoco/). 
 
+# Publication
 Any other related information could be referenced from our paper (https://outlook.office.com/mail/group/groups.bristol.ac.uk/grp-trans-ethnicpwas-gbmi/files/sxs/sp/701F7E1B-F49A-421F-855C-B72A1CC39EB4/). 
+
+# Data Sources
+* GWAS data: [Global Biobank Meta-analysis Initiative (GBMI)](https://www.globalbiobankmeta.org/).
+* pQTL data: [Zhang et al., 2021 BioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.full).
+
+
