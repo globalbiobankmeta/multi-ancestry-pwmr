@@ -1,13 +1,10 @@
-# Trans-ancestry proteome-wide Mendelian randomization
-In this study, we systematically estimated the causal role of 1,311 and 1,310 proteins, measured in populations from African and European ancestry respectively, on eight common diseases using a comprehensive ancestry-specific MR pipeline.
-The results highlight the value of proteome-wide MR in informing the generalisability of drugs and drug targets across ancestries and illustrate the value of multi-cohort and biobank meta-analysis of genetic data for drug development.
+# Effect of GLP1R siganlling and self-harm using Mendelian randomization
+In this study, we estimated the effect of GLP1R signalling on self-harm outcomes using Mendelian randomization (MR), colocalization and polygenic score association. 
+The results highlight that the weight loss effect of GLP1R signalling was likely to increase the risk of self-harm behaviours and raised concern about mental health safety of using GLP1R agonists for weight control, potentially with higher risk in women. 
 
+We upload the discovery MR code here in `"Mendelian randomization"`.
 
-We report our MR results in an openly accessible database: EpiGraphDB (https://epigraphdb.org/trans-ancestry-PWMR/). 
-
-We also upload the discovery proteome-wide MR code here in `"R code"` folder and attach the example files in `"example file"` folder.
-
-To start using the code, you need to install `TwoSampleMR`, `MendelianRandomization` and `ieugwasr` package.
+To start using the code, you need to install `TwoSampleMR` and `ieugwasr` package.
 
 ```key
 install.packages("remotes")
